@@ -1,5 +1,9 @@
 ## Willkommen auf Lost Letters
 
+Hier werden Leserbriefe, die aufgegeben werden und nicht gedruckt, gepostet.
+
+Last oder eben lost Letters.
+
 You can use the [editor on GitHub](https://github.com/sigasser/lost-letters/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
