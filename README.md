@@ -4,6 +4,9 @@ Hier werden Leserbriefe, die aufgegeben werden und nicht gedruckt, gepostet.
 
 Last oder eben lost Letters.
 
+-----
+[Erster Blogbeitrag](https://sigasser.github.io/lost-letters/testseite)
+
 ---------
 
 You can use the [editor on GitHub](https://github.com/sigasser/lost-letters/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
