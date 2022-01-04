@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Testseite
-perkmalink: /testseite
+perkmalink: https://sigasser.github.io/lost-letters/testseite
 ---
 
 ## Testseite
